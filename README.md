@@ -4,11 +4,22 @@ Apogee Connect for desktop is an application used for sensors built by Apogee In
 This app was built from the ground up in an effort to update  and combine functionality of several Apogee applications. It is currently in beta testing but this serves as a sneak peak of the app! It is built in python using the PySide6 GUI library in correlation with qasync, asyncio, and bleak to accomodate asynchronous communication with some sensors such as Apogee's Bluetooth Low Energy sensors.
 
 This app works with Apogee sensors using the following communication protocols:
+
     - USB Serial
     - Bluetooth Low Energy
     - Modbus
     - SDI-12
+    
 
+Some of the basic features include:
+
+    - Live data graphing
+    - Live data recording
+    - Current sample snapshot
+    - Additional data insights
+    - Calibration
+    - Field logging setup to allow remote data collection
+    - Customizable UI
 
 For more information about Apogee Instruments:
 https://www.apogeeinstruments.com/
@@ -47,4 +58,3 @@ https://www.apogeeinstruments.com/downloads/
 
 ### Dark Mode
 ![Dark mode preview](./assets/DarkMode.gif)
-
