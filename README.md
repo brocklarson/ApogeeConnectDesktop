@@ -29,32 +29,72 @@ https://www.apogeeinstruments.com/downloads/
 
 
 ### USB Sensor
+
+USB Sensor Connection and Live Data Preview
+
 ![USB Sensor connection and live data preview](./assets/USB_Normal.gif)
+
+
+USB Sensor Data Recording
 
 ![USB Sensor data recording](./assets/USB_Recording.gif)
 
+
+USB Sensor Current Sample Snapshot
+
 ![USB Sensor data snapshot](./assets/USB_Snapshot.gif)
+
+
+USB Sensor UI Settings
 
 ![USB Sensor Settings](./assets/USB_Settings.gif)
 
+
+USB Sensor Calibration
+
 ![USB Sensor Calibration](./assets/USB_Calibration.gif)
 
+
 ### Spectroradiometer Sensor
+
+Spectroradiometer Connection and Live Data Preview
+
 ![Spectroradiometer connection and live data with insights](./assets/Spec_Normal_Insights.gif)
+
+
+Spectroradiometer UI Settings
 
 ![Spectroradiometer Settings](./assets/Spec_Settings.gif)
 
 ### Thermal Array Sensor
+
+Thermal Array Connection and Live Data Preview
+
 ![Thermal Array connection and settings](./assets/TA_Settings.gif)
+
+
+Thermal Array UI Settings
 
 ![Thermal Array more settings](./assets/TA_TempRange.gif)
 
 ### Bluetooth Sensor
+
+Bluetooth Sensor Connection and Live Data Preview
+
 ![Bluetooth Sensor connection and live data preview](./assets/BLE_Normal.gif)
 
+
+Bluetooth Sensor UI Settings and Calibration
+
 ![Bluetooth Sensor settings and calibration](./assets/Ble_Settings_Cal.gif)
+
+
+Bluetooth Sensor Remote Field Logging Setup/Collection
 
 ![Bluetooth Sensor field logging](./assets/BLE_FieldLogging.gif)
 
 ### Dark Mode
+
+Dark Mode/Light Mode Toggle
+
 ![Dark mode preview](./assets/DarkMode.gif)
