@@ -28,7 +28,7 @@ To see other applications I worked on for Apogee Instruments:
 https://www.apogeeinstruments.com/downloads/
 
 
-### USB Sensor
+## USB Sensor
 
 USB Sensor Connection and Live Data Preview
 
@@ -55,7 +55,7 @@ USB Sensor Calibration
 ![USB Sensor Calibration](./assets/USB_Calibration.gif)
 
 
-### Spectroradiometer Sensor
+## Spectroradiometer Sensor
 
 Spectroradiometer Connection and Live Data Preview
 
@@ -66,7 +66,7 @@ Spectroradiometer UI Settings
 
 ![Spectroradiometer Settings](./assets/Spec_Settings.gif)
 
-### Thermal Array Sensor
+## Thermal Array Sensor
 
 Thermal Array Connection and Live Data Preview
 
@@ -77,7 +77,7 @@ Thermal Array UI Settings
 
 ![Thermal Array more settings](./assets/TA_TempRange.gif)
 
-### Bluetooth Sensor
+## Bluetooth Sensor
 
 Bluetooth Sensor Connection and Live Data Preview
 
@@ -93,7 +93,7 @@ Bluetooth Sensor Remote Field Logging Setup/Collection
 
 ![Bluetooth Sensor field logging](./assets/BLE_FieldLogging.gif)
 
-### Dark Mode
+## Dark Mode
 
 Dark Mode/Light Mode Toggle
 
