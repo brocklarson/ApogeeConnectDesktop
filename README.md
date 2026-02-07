@@ -28,6 +28,29 @@ To see other applications I worked on for Apogee Instruments:
 https://www.apogeeinstruments.com/downloads/
 
 
+## Spectroradiometer Sensor
+
+Spectroradiometer Connection and Live Data Preview
+
+![Spectroradiometer connection and live data with insights](./assets/Spec_Normal_Insights.gif)
+
+
+Spectroradiometer UI Settings
+
+![Spectroradiometer Settings](./assets/Spec_Settings.gif)
+
+## Thermal Array Sensor
+
+Thermal Array Connection and Live Data Preview
+
+![Thermal Array connection and settings](./assets/TA_Settings.gif)
+
+
+Thermal Array UI Settings
+
+![Thermal Array more settings](./assets/TA_TempRange.gif)
+
+
 ## USB Sensor
 
 USB Sensor Connection and Live Data Preview
@@ -54,28 +77,6 @@ USB Sensor Calibration
 
 ![USB Sensor Calibration](./assets/USB_Calibration.gif)
 
-
-## Spectroradiometer Sensor
-
-Spectroradiometer Connection and Live Data Preview
-
-![Spectroradiometer connection and live data with insights](./assets/Spec_Normal_Insights.gif)
-
-
-Spectroradiometer UI Settings
-
-![Spectroradiometer Settings](./assets/Spec_Settings.gif)
-
-## Thermal Array Sensor
-
-Thermal Array Connection and Live Data Preview
-
-![Thermal Array connection and settings](./assets/TA_Settings.gif)
-
-
-Thermal Array UI Settings
-
-![Thermal Array more settings](./assets/TA_TempRange.gif)
 
 ## Bluetooth Sensor
 
